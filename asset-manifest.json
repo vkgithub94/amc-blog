@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/amc-blog/static/css/main.b234955c.chunk.css",
+    "main.js": "/amc-blog/static/js/main.80116944.chunk.js",
+    "main.js.map": "/amc-blog/static/js/main.80116944.chunk.js.map",
+    "runtime-main.js": "/amc-blog/static/js/runtime-main.6eacff11.js",
+    "runtime-main.js.map": "/amc-blog/static/js/runtime-main.6eacff11.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/amc-blog/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.c76bf57d.chunk.js": "/amc-blog/static/js/2.c76bf57d.chunk.js",
+    "static/js/2.c76bf57d.chunk.js.map": "/amc-blog/static/js/2.c76bf57d.chunk.js.map",
+    "index.html": "/amc-blog/index.html",
+    "precache-manifest.5fbca34db7a59121d7615291df4cd1cf.js": "/amc-blog/precache-manifest.5fbca34db7a59121d7615291df4cd1cf.js",
+    "service-worker.js": "/amc-blog/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/amc-blog/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.b234955c.chunk.css.map": "/amc-blog/static/css/main.b234955c.chunk.css.map",
+    "static/js/2.c76bf57d.chunk.js.LICENSE": "/amc-blog/static/js/2.c76bf57d.chunk.js.LICENSE",
+    "static/media/Disclosure_Document_26Dec19.pdf": "/amc-blog/static/media/Disclosure_Document_26Dec19.09a607a0.pdf",
+    "static/media/Mobile-162x300.png": "/amc-blog/static/media/Mobile-162x300.7d4ebc21.png",
+    "static/media/apple-brands.svg": "/amc-blog/static/media/apple-brands.c66b5c1c.svg",
+    "static/media/direct.png": "/amc-blog/static/media/direct.4a18ff40.png",
+    "static/media/expert.png": "/amc-blog/static/media/expert.d73ed150.png",
+    "static/media/google-play-brands.svg": "/amc-blog/static/media/google-play-brands.e2745812.svg",
+    "static/media/graph.png": "/amc-blog/static/media/graph.ead48a27.png",
+    "static/media/linkedin-brands.svg": "/amc-blog/static/media/linkedin-brands.d9049f46.svg",
+    "static/media/nitin.png": "/amc-blog/static/media/nitin.f820760c.png",
+    "static/media/vaibhav.png": "/amc-blog/static/media/vaibhav.77cdb117.png",
+    "static/media/vijay.png": "/amc-blog/static/media/vijay.d1819524.png",
+    "static/media/yogesh.png": "/amc-blog/static/media/yogesh.1283699b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6eacff11.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.c76bf57d.chunk.js",
+    "static/css/main.b234955c.chunk.css",
+    "static/js/main.80116944.chunk.js"
+  ]
+}
