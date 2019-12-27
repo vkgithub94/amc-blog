@@ -1,0 +1,94 @@
+.overview-container{
+    width: 90%;
+    height: 350px;
+    padding-left: 0px;
+    margin-top: 50px;
+    position: relative;
+    left: 100px;
+}
+
+.left-div2{
+    height: 350px;
+    width: 30%;
+    position: relative;
+    left: 0px;
+    display: inline-block;
+}
+
+
+
+.middle-div{
+    height: 350px;
+    width: 30%;
+    position: relative;
+    left: 30px;
+    display: inline-block;
+}
+
+.right-div2{
+    height: 350px;
+    width: 30%;
+    position: relative;
+    left: 60px;
+    display: inline-block;
+}
+
+.data-driven, .client-first, .expertise{
+    height: 120px;
+    width: 170px;
+    position: relative;
+    top: 10px;
+    left: 85px;
+}
+
+.data-driven-text, .client-first-text, .expertise-text{
+    height: 34px;
+    width: 100%;
+    margin-top: 20px;
+    color: #0F1E36;
+    font-family: 'Encode Sans Semi Expanded',sans-serif;;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 48px;
+    text-align: center;
+}
+
+.data-driven-blog, .client-first-blog, .expertise-blog{
+    height: 200px;
+    width: 100%;
+    color: #0F1E36;
+    font-family: 'Encode Sans Semi Expanded',sans-serif;;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    line-height: 20px;
+    text-align: center;
+}
+
+@media screen and (max-width: 530px) {
+
+    .overview-container{
+        width: 90%;
+        height: 500px;
+        margin-top:800px;
+    }
+    
+    .left-div2, .middle-div, .right-div2{
+        position: relative;
+        top: 10px;
+        left: 20px;
+        display: inline;
+    }
+
+    .data-driven-text, .client-first-text, .expertise-text{
+        position: relative;
+        left: -60px;
+    }
+
+    .data-driven-blog, .client-first-blog, .expertise-blog{
+        position: relative;
+        left: -80px;
+    }
+    
+  }
+

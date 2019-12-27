@@ -1,0 +1,102 @@
+.most-top-container{
+    width: 90%;
+    height: 500px;
+    padding-left: 100px;
+    position: relative;
+    left: 100px;
+    top: 5px;
+}
+
+.left-div{
+    width: 50%;
+    height: 400px;
+    position: relative;
+    top: 0px;
+    display: inline-block;
+}
+
+.supercharge{
+    height: 34px;
+    width: 90%;
+    position: relative;
+    top: 100px;
+    color: #0F1E36;
+    font-family: 'Encode Sans Semi Expanded',sans-serif;;
+    font-size: 34px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 48px;
+    text-align: center;
+}
+
+.pms-text{
+    height: 16px;
+    width: 90%;
+    position: relative;
+    top: 60px;
+    color: #0F1E36;
+    font-family: 'Encode Sans Semi Expanded',sans-serif;
+    font-size: 14px;
+    line-height: 48px;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.right-div{
+    width: 50%;
+    height: 500px;
+    position: relative;
+    top: 0px;
+    display: inline-block;
+}
+
+.graph-img{
+    height: 475px;
+    position: relative;
+    top: 0px;
+    left: 100px;
+}
+
+@media screen and (max-width: 530px) {
+    
+    .left-div{
+        display: inline;
+    }
+
+    .supercharge{
+        height: 50px;
+        width: 100%;
+        font-size: 24px;
+        font-weight: 400;
+        letter-spacing: 0.5px;
+        line-height: 24px;
+        text-align: center;
+    }
+
+    .pms-text{
+        height: 16px;
+        width: 100%;
+        position: relative;
+        top: 40px;
+        font-size: 14px;
+        line-height: 14px;
+        letter-spacing: 0.5px;
+        text-align: center;
+    }
+
+    .right-div{
+        width: 100%;
+        height: 500px;
+        position: relative;
+        top: 75px;
+        left: 0px;
+    }
+
+    .graph-img{
+        height: 375px;
+        position: relative;
+        top: 0px;
+        left: 10px;
+    }
+    
+  }
